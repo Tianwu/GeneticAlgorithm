@@ -1,0 +1,8 @@
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.FormMain.resources
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.Properties.Resources.resources
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\bin\Debug\CS期末作业.exe
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\bin\Debug\CS期末作业.pdb
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.exe
+d:\backup\documents\visual studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.pdb
+D:\Backup\Documents\Visual Studio 2010\Projects\CS期末作业\CS期末作业\obj\x86\Debug\CS期末作业.csprojResolveAssemblyReference.cache
