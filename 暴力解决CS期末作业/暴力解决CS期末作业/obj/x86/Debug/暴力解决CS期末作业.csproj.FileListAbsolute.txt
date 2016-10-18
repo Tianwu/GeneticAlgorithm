@@ -1,0 +1,4 @@
+d:\backup\documents\visual studio 2010\Projects\暴力解决CS期末作业\暴力解决CS期末作业\bin\Debug\暴力解决CS期末作业.exe
+d:\backup\documents\visual studio 2010\Projects\暴力解决CS期末作业\暴力解决CS期末作业\bin\Debug\暴力解决CS期末作业.pdb
+d:\backup\documents\visual studio 2010\Projects\暴力解决CS期末作业\暴力解决CS期末作业\obj\x86\Debug\暴力解决CS期末作业.exe
+d:\backup\documents\visual studio 2010\Projects\暴力解决CS期末作业\暴力解决CS期末作业\obj\x86\Debug\暴力解决CS期末作业.pdb
